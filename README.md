@@ -3,7 +3,6 @@
 - I like to build apps with python, java and c++.
 - I’m currently learning full stack web development.
 - Currently, I'm learing a lot as I'm exploring the vast field of web development.
-- My goal is to build a few web applications using the full stack web development knowledge that I'll gain and then later switch to mainly front-end or back-end web development based off preferance.
 
 <!---
 Loltron/Loltron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
