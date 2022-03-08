@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Loltron
+- 👋 Hi, I’m @syedalijaseem
 - I’m interested in mainly web development(full stack).
-- I like to build apps with python, java and c++.
+- I like to build apps with python, java and javascript.
 - I’m currently learning full stack web development.
 - Currently, I'm learing a lot as I'm exploring the vast field of web development.
 
